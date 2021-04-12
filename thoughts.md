@@ -1,0 +1,2 @@
+- Terminal knowledge is very important, mastering command, git and navigation is key
+- Git or other VCSs are great tools for safe coding as well as collaboration
